@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Wave&height=150&color=FFFBE9&text=Kim%20JungIL&fontColor=4F5170&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&height=150&color=FFFBE9&text=Kim%20JungIL&fontColor=4F5170&fontSize=50" />
 </div>
 
 
