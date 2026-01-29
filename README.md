@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 </div>
 
+<h3 align="center">📚 Studying</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/REST_API_Design-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth_Flow-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Security_Deep_Dive-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Service_Architecture-7B68EE?style=for-the-badge"/>
+</div>
+
 <h3 align="center">🏆 Awards</h3>
 
 <table align="center">
